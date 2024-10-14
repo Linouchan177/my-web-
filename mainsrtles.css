@@ -1,0 +1,33 @@
+
+body{
+
+border: 7px solid black;
+width: 80%;
+background-color: rgb(43, 174, 226);
+text-size-adjust:  15px;
+
+
+}
+main{
+    background-color: bisque;
+}
+
+
+h1{
+    color: aqua;
+}
+body{
+    width: 70%
+    margin:auto
+}
+
+
+.linostyles{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: brown;
+    color: black;
+}
+ul>Li{
+    list-style: none;
+}
+
